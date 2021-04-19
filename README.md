@@ -4,5 +4,5 @@ Bootstrap a Docker PHP project
 Usage
 -----
 ```
-git clone --depth=1 https://github.com/cylmat/phpstrap.git .
+curl -fsSL https://raw.githubusercontent.com/cylmat/phpstrap/main/install.sh | bash
 ```
