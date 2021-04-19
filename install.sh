@@ -6,7 +6,6 @@ git clone --depth=1 https://github.com/cylmat/phpserver.git .
 # Download home config with custom prompts and editor 
 git clone --depth=1 https://github.com/cylmat/homeconfig ./.docker/.home
 rm -rf ./.docker/.home/.github
-rm ./.docker/.home/install.sh
 
 # Download PHP environment with specs and tests frameworks
 git clone --depth=1 https://github.com/cylmat/phpconfig.git ./tmp_phpconfig
