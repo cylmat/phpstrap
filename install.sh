@@ -6,7 +6,7 @@ rm .github/workflows/main.yml
 
 # Download home config with custom prompts and editor 
 git clone --depth=1 https://github.com/cylmat/homeconfig ./.docker/.home
-rm -rf ./.docker/.home/.github
+rm ./.docker/.home/.github/main.yml
 
 # Download PHP environment with specs and tests frameworks
 git clone --depth=1 https://github.com/cylmat/phpconfig.git ./tmp_phpconfig
