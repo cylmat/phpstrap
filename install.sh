@@ -11,4 +11,4 @@ rm ./.docker/.home/install.sh
 # Download PHP environment with specs and tests frameworks
 git clone --depth=1 https://github.com/cylmat/phpconfig.git ./tmp_phpconfig
 mv ./tmp_phpconfig/* .
-rm ./tmp_phpconfig
+rm -rf ./tmp_phpconfig
