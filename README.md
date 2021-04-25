@@ -1,5 +1,5 @@
-# bPHPstrap
-Bootstrap a Docker PHP project
+# (b)PHPstrap
+Bootstrap a PHP project
 
 Usage
 -----
